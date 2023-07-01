@@ -1,3 +1,4 @@
+# Depreciated please use [RichTextComponent](https://github.com/drualcman/BlazorBasics.RichTextEditor)
 # Description
 A simple Rich Text Editor for Blazor Server or Blazor WebAssembly applications. This rich text editor is based in [Quill](https://quilljs.com/) JavaScript.
 
